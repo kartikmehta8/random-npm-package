@@ -1,0 +1,24 @@
+{
+    "name": "random-days-and-months",
+    "version": "1.0.0",
+    "description": "Returns random day of a week or random month of an year.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kartikmehta8/random-npm-package.git"
+    },
+    "keywords": [
+        "month",
+        "day",
+        "random"
+    ],
+    "author": "Kartik Mehta",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kartikmehta8/random-npm-package/issues"
+    },
+    "homepage": "https://github.com/kartikmehta8/random-npm-package#readme"
+}
